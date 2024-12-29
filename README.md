@@ -70,6 +70,6 @@ To run the **Bill Management System**, follow these steps:
 # Notes
 Ensure that Tkinter is installed on your system. If it's not installed, you can install it using:
 
-   ```
-   pip install tk
-   ```
+      ```
+         pip install tk
+      ```
