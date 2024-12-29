@@ -54,10 +54,11 @@ To run the **Bill Management System**, follow these steps:
 1. Ensure that Python and Tkinter are installed on your local machine.
 2. Save the provided Python code in a file named `bill_management_system.py`.
 3. Run the script using the command:
+   
    ```
    python bill_management_system.py
    ```
-4. The application window will open, where you can enter quantities for each item and calculate the total bill.
+5. The application window will open, where you can enter quantities for each item and calculate the total bill.
 
 
 ## Usage
@@ -68,6 +69,7 @@ To run the **Bill Management System**, follow these steps:
 
 # Notes
 Ensure that Tkinter is installed on your system. If it's not installed, you can install it using:
+
    ```
    pip install tk
    ```
